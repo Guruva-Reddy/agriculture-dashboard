@@ -1,4 +1,6 @@
 #  Agriculture Crop Production Analysis Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 #  Project Overview
 
